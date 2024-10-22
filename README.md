@@ -26,3 +26,8 @@ using DrWatson
 @quickactivate "Project1"
 ```
 which auto-activate the project and enable local path handling from DrWatson.
+
+
+## Project Documentation
+Detailed project setup instructions can be found in the [project_setup.pdf](docs/project_setup.pdf).
+
