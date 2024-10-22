@@ -1,5 +1,5 @@
 using DrWatson, Test
-@quickactivate "Project1"
+@quickactivate "FE2P1SvobodaVlach"
 
 # Here you include files using `srcdir`
 # include(srcdir("file.jl"))
