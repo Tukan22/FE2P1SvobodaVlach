@@ -23,7 +23,7 @@ everything should work out of the box, including correctly finding local paths.
 You may notice that most scripts start with the commands:
 ```julia
 using DrWatson
-@quickactivate "Project1"
+@quickactivate "FE2P1SvobodaVlach"
 ```
 which auto-activate the project and enable local path handling from DrWatson.
 
