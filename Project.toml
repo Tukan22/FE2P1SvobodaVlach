@@ -1,10 +1,12 @@
 name = "FE2P1SvobodaVlach"
 
 [deps]
+ARCHModels = "6d3278bc-c23a-5105-85e5-0d57d2bf684f"
 CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 DrWatson = "634d3b9d-ee7a-5ddf-bec9-22491ea816e1"
-YFinance = "e4b3b0a2-f9a3-42f3-aabb-32142cceaf77"
+MarketData = "945b72a4-3b13-509d-9b46-1525bb5c06de"
 
 [compat]
 DrWatson = "2.18.0"
